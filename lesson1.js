@@ -1,3 +1,4 @@
-const name = "soham";
-const age = 29;
-console.log(name,age);
+let name = "soham";
+let age = 29;
+let isDeveloper = true;
+console.log(name,age, isDeveloper);
